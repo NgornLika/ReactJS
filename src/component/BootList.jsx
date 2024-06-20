@@ -20,11 +20,11 @@ export default function BootList() {
                                     </div>
                                 </div>
                                 <div className="project-date">
-                                    <span className="hidden-sm-down">Today at 4:24 AM</span>
+                                    <span className="hidden-sm-down">Today at 2:00 PM</span>
                                 </div>
                             </div>
                             <div className="right-col col-lg-6 d-flex align-items-center">
-                                <div className="time"><i className="fa fa-clock-o"></i> 12:00 PM </div>
+                                <div className="time"><i className="fa fa-clock-o"></i> 12:00 AM </div>
                                 <div className="comments"><i className="fa fa-comment-o"></i> 20</div>
                                 <div className="project-progress">
                                     <div className="progress">
@@ -48,11 +48,11 @@ export default function BootList() {
                                     </div>
                                 </div>
                                 <div className="project-date">
-                                    <span className="hidden-sm-down">Today at 4:24 AM</span>
+                                    <span className="hidden-sm-down">Today at 2:10 PM</span>
                                 </div>
                             </div>
                             <div className="right-col col-lg-6 d-flex align-items-center">
-                                <div className="time"><i className="fa fa-clock-o"></i> 12:00 PM </div>
+                                <div className="time"><i className="fa fa-clock-o"></i> 12:00 AM </div>
                                 <div className="comments"><i className="fa fa-comment-o"></i> 20</div>
                                 <div className="project-progress">
                                     <div className="progress">
@@ -76,11 +76,11 @@ export default function BootList() {
                                     </div>
                                 </div>
                                 <div className="project-date">
-                                    <span className="hidden-sm-down">Today at 4:24 AM</span>
+                                    <span className="hidden-sm-down">Today at 2:30PM</span>
                                 </div>
                             </div>
                             <div className="right-col col-lg-6 d-flex align-items-center">
-                                <div className="time"><i className="fa fa-clock-o"></i> 12:00 PM </div>
+                                <div className="time"><i className="fa fa-clock-o"></i> 12:00 AM </div>
                                 <div className="comments"><i className="fa fa-comment-o"></i> 20</div>
                                 <div className="project-progress">
                                     <div className="progress">
