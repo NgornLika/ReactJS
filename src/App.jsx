@@ -1,6 +1,6 @@
 // import Boot from "./component/Boot"
 // import BootList from "./component/BootList"
-import "git/style.scss";
+import "./style.scss";
 function App() {
   return (
     <>
